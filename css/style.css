@@ -89,6 +89,7 @@ a {
     font-size: 35px;
     color: var(--verylightgray);
     margin-bottom: 30px;
+    text-transform: uppercase;
 }
 .content__card p {
     color: var(--transperntwhite);
